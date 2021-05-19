@@ -28,7 +28,7 @@ twitter_username: Nil
 github_username:  leecopland
 
 # Build settings
-theme: jekyll-theme-chirpy
+theme: minima
 plugins:
   - jekyll-feed
 
